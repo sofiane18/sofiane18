@@ -169,6 +169,8 @@ If you have a project or opportunity that aligns with my skills and interests, I
 - Graph Theory
 - Language Theory
 - Databases
+
+
 💼 [View My Full CV](link-to-your-cv) | 🌐 [Personal Website/Portfolio](link-to-your-website)
 
 Thank you for visiting my GitHub profile. Let's build something amazing together! 🚀
