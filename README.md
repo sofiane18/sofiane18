@@ -171,6 +171,7 @@ If you have a project or opportunity that aligns with my skills and interests, I
 - Language Theory
 - Databases
 
+--- 
 
 💼 [View My Full CV](link-to-your-cv) | 🌐 [Personal Website/Portfolio](link-to-your-website)
 
