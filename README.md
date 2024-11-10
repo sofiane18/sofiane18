@@ -22,6 +22,7 @@ Let's connect and build something amazing together! 🌟
 ### Frameworks & Libraries
 - Frontend: React.js, Next.js, Tailwind CSS, Chart.js, D3.js, Shadcn UI, HTML, CSS, XML
 - Backend: Node.js, Express, FastAPI
+- Android App: Java Android
 - Machine Learning: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib
 - Other: Celery, OpenGL, OpenMPI, Socket.io, Redux, Progressive-Web-APPs (PWA), Apache CXF (SOAP), JUnit, Jest, GPyOpt, Maude
 
@@ -110,8 +111,8 @@ I believe in the power of community and collaborative learning in the tech world
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to grow in the field of software engineering. Feel free to reach out to me through:
 
-- 📧 Email: sofianealloui13@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/sofianealloui/
+- 📧 Email: [sofianealloui13@gmail.com](sofianealloui13@gmail.com).
+- 🔗 LinkedIn:  [linkedin.com/in/sofianealloui/](linkedin.com/in/sofianealloui/).
 
 ## 🚀 What I'm Looking For
 
