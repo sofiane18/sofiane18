@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "14eeea9b-6e78-4cd9-bee9-03138d0389bc"
       }
+    },
+    "android": {
+      "package": "com.sofiane18.storeownerdemoapp"
     }
   }
 }
